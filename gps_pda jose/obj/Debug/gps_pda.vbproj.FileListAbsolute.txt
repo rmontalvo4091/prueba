@@ -1,0 +1,822 @@
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Desktop\gps_pda\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 01-10-16'\gps_pda\obj\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\bin\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\bin\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\bin\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 04-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\bin\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\bin\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\bin\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 05-10-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\bin\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\bin\Debug\gps_pda.pdb
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\bin\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.exe
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.xml
+F:\OneDrive\Documentos\Proyectos\JOSE_LUIS_BOLIVIA\gps_pda - 06-10-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 02-11-16\gps_pda\obj\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\bin\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\bin\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\bin\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 03-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 05-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 06-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Raúl\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 08-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 13-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\bin\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\bin\Debug\gps_pda.pdb
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\bin\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.exe
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.xml
+D:\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 16-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 17-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 19-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 20-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 23-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 25-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 26-11-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 27-11-16\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\rjaure\Google Drive\Documentos\Proyectos\OTROS\JOSE_LUIS_BOLIVIA\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Jose Luis\Desktop\gps_2016\gps_pda - 29-11-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\luisito\Desktop\GPS_2016\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.FormRegistroLecturaSecu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmElegirRuta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 08-12-16\gps_pda\obj\Debug\gps_pda.frmBuscarRegistro.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.FormRegistroLecturaSecu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmBuscarRegistro.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmElegirRuta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 18-01-2017\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Samples.Location.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.Form3.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.FormRegistroLecturaSecu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmBuscarRegistro.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmElegirRuta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmImagenes.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmMailCliente.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmRastreo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.Form1.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.Form2.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmPlanilla.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmPreaviso.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.pdb
+C:\Users\Jose Luis\Documents\Visual Studio 2008\Projects\gps_pda - 02-03-2017 online\gps_pda\obj\Debug\gps_pda.frmBuscarObs.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\gps_pda.exe
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\gps_pda.pdb
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\gps_pda.xml
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Samples.Location.pdb
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.FormRegistroLecturaSecu.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmBuscarObs.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmBuscarRegistro.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmElegirRuta.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmImagenes.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmMailCliente.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.exe
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.xml
+C:\Users\Admin\Desktop\gps_pda - 19-05-2019 online\gps_pda\obj\Debug\gps_pda.pdb
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\gps_pda.exe
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\gps_pda.pdb
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\gps_pda.xml
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.dll
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\System.Data.SqlClient.dll
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\System.Data.SqlServerCe.dll
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.dll
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.xml
+C:\SistemaLecturas\gps_pda_online\gps_pda\bin\Debug\Microsoft.WindowsMobile.Forms.xml
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\ResolveAssemblyReference.cache
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.FormRegistroLecturaSecu.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmBuscarObs.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmBuscarRegistro.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmCorreoDestino.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmElegirRuta.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmImagenes.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmMailCliente.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmModo.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmNotificacion.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPass.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmUsuarioCambioPin.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmConfiguracion.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmEditLectura.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmAcceso.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmCarga.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmConsulta.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmMenu.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmRegLectura.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmReporte.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmUsuarioEdit.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmUsuarioNvo.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.frmUsuarios.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.Resources.resources
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.vbproj.GenerateResource.Cache
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.exe
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.xml
+C:\SistemaLecturas\gps_pda_online\gps_pda\obj\Debug\gps_pda.pdb

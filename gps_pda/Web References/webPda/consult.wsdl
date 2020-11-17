@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ConsultaBD_STOCK">
+        <s:complexType />
+      </s:element>
+      <s:element name="ConsultaBD_STOCKResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaBD_STOCKResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="predios_asignados">
+        <s:complexType />
+      </s:element>
+      <s:element name="predios_asignadosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="predios_asignadosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insert_reglectura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="reglectura_valor" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="reglectura_gps_latitud" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="reglectura_gps_longitud" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="idobs" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="reglectura_obs_detalle" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tlectura_idtlectura" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insert_reglecturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insert_reglecturaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_planilla_medidor">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idcliente" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="idmedidor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="idpredio" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="idlectura" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_planilla_medidorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="update_planilla_medidorResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_reglecturasecu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="idreglectura" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="valor" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="idobs" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="observ" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="latitud_mod" type="s:double" />
+            <s:element minOccurs="1" maxOccurs="1" name="longitud_mod" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_reglecturasecuResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="update_reglecturasecuResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="enviar_mail2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="email_to" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="asunto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cliente" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="medidor" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="msgpredet" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="obs" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="enviar_mail2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="enviar_mail2Result" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="enviar_mail3">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="email_to" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="asunto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="usuario" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="planilla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fp" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="enviar_mail3Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="enviar_mail3Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="exportar_planilla">
+        <s:complexType />
+      </s:element>
+      <s:element name="exportar_planillaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="exportar_planillaResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="convertir">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="texto" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="convertirResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="convertirResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_listar_rutas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_listar_rutasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="planilla_listar_rutasResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_porCuenta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="texto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_porCuentaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="buscarRegistro_porCuentaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_por">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="campo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="texto" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_porResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="buscarRegistro_porResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_Manzano">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="manzano" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_ManzanoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="buscarRegistro_ManzanoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_LoteManzano">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="manzano" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lote" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarRegistro_LoteManzanoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="buscarRegistro_LoteManzanoResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_categoriaNombre">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idcat" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_categoriaNombreResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_categoriaNombreResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_asignada_listar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_asignada_listarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="planilla_asignada_listarResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_min">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_minResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="planillaitems_minResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_max">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_maxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="planillaitems_maxResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_sig">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indice" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_sigResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="planillaitems_sigResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_ant">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indice" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitems_antResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="planillaitems_antResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_secuenciaUltimoRegistro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_secuenciaUltimoRegistroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="dame_secuenciaUltimoRegistroResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaindice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="_idusuario" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_indice" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_minsecu" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_maxsecu" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_indicesecu" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_siguiente" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_anterior" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaindiceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="planillaindiceResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_datos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planilla_datosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="planilla_datosResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="secu" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="planillaitemResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="planillaitemResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_tarifa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idcate" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="_idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_tarifaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_tarifaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_obs">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idobs" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_obsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_obsResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_sitiocaja">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idsitiocaja" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_sitiocajaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_sitiocajaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ver_avance">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ver_avanceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ver_avanceResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_totalitems">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_totalitemsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_totalitemsResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_planillaitems_reglectura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="indicesecu" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="idreglectura" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="update_planillaitems_reglecturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="update_planillaitems_reglecturaResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_registrolecturaById">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idreglectura" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_registrolecturaByIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_registrolecturaByIdResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_registrolectura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="secu" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_registrolecturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_registrolecturaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_tiempoLaboralRuta">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idusuario" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLruta" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="_SQLestadoreg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dame_tiempoLaboralRutaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dame_tiempoLaboralRutaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultaBD_STOCKSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaBD_STOCK" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaBD_STOCKSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaBD_STOCKResponse" />
+  </wsdl:message>
+  <wsdl:message name="predios_asignadosSoapIn">
+    <wsdl:part name="parameters" element="tns:predios_asignados" />
+  </wsdl:message>
+  <wsdl:message name="predios_asignadosSoapOut">
+    <wsdl:part name="parameters" element="tns:predios_asignadosResponse" />
+  </wsdl:message>
+  <wsdl:message name="insert_reglecturaSoapIn">
+    <wsdl:part name="parameters" element="tns:insert_reglectura" />
+  </wsdl:message>
+  <wsdl:message name="insert_reglecturaSoapOut">
+    <wsdl:part name="parameters" element="tns:insert_reglecturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="update_planilla_medidorSoapIn">
+    <wsdl:part name="parameters" element="tns:update_planilla_medidor" />
+  </wsdl:message>
+  <wsdl:message name="update_planilla_medidorSoapOut">
+    <wsdl:part name="parameters" element="tns:update_planilla_medidorResponse" />
+  </wsdl:message>
+  <wsdl:message name="update_reglecturasecuSoapIn">
+    <wsdl:part name="parameters" element="tns:update_reglecturasecu" />
+  </wsdl:message>
+  <wsdl:message name="update_reglecturasecuSoapOut">
+    <wsdl:part name="parameters" element="tns:update_reglecturasecuResponse" />
+  </wsdl:message>
+  <wsdl:message name="enviar_mail2SoapIn">
+    <wsdl:part name="parameters" element="tns:enviar_mail2" />
+  </wsdl:message>
+  <wsdl:message name="enviar_mail2SoapOut">
+    <wsdl:part name="parameters" element="tns:enviar_mail2Response" />
+  </wsdl:message>
+  <wsdl:message name="enviar_mail3SoapIn">
+    <wsdl:part name="parameters" element="tns:enviar_mail3" />
+  </wsdl:message>
+  <wsdl:message name="enviar_mail3SoapOut">
+    <wsdl:part name="parameters" element="tns:enviar_mail3Response" />
+  </wsdl:message>
+  <wsdl:message name="exportar_planillaSoapIn">
+    <wsdl:part name="parameters" element="tns:exportar_planilla" />
+  </wsdl:message>
+  <wsdl:message name="exportar_planillaSoapOut">
+    <wsdl:part name="parameters" element="tns:exportar_planillaResponse" />
+  </wsdl:message>
+  <wsdl:message name="convertirSoapIn">
+    <wsdl:part name="parameters" element="tns:convertir" />
+  </wsdl:message>
+  <wsdl:message name="convertirSoapOut">
+    <wsdl:part name="parameters" element="tns:convertirResponse" />
+  </wsdl:message>
+  <wsdl:message name="planilla_listar_rutasSoapIn">
+    <wsdl:part name="parameters" element="tns:planilla_listar_rutas" />
+  </wsdl:message>
+  <wsdl:message name="planilla_listar_rutasSoapOut">
+    <wsdl:part name="parameters" element="tns:planilla_listar_rutasResponse" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_porCuentaSoapIn">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_porCuenta" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_porCuentaSoapOut">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_porCuentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_porSoapIn">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_por" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_porSoapOut">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_porResponse" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_ManzanoSoapIn">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_Manzano" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_ManzanoSoapOut">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_ManzanoResponse" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_LoteManzanoSoapIn">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_LoteManzano" />
+  </wsdl:message>
+  <wsdl:message name="buscarRegistro_LoteManzanoSoapOut">
+    <wsdl:part name="parameters" element="tns:buscarRegistro_LoteManzanoResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_categoriaNombreSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_categoriaNombre" />
+  </wsdl:message>
+  <wsdl:message name="dame_categoriaNombreSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_categoriaNombreResponse" />
+  </wsdl:message>
+  <wsdl:message name="planilla_asignada_listarSoapIn">
+    <wsdl:part name="parameters" element="tns:planilla_asignada_listar" />
+  </wsdl:message>
+  <wsdl:message name="planilla_asignada_listarSoapOut">
+    <wsdl:part name="parameters" element="tns:planilla_asignada_listarResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_minSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaitems_min" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_minSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaitems_minResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_maxSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaitems_max" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_maxSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaitems_maxResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_sigSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaitems_sig" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_sigSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaitems_sigResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_antSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaitems_ant" />
+  </wsdl:message>
+  <wsdl:message name="planillaitems_antSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaitems_antResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_secuenciaUltimoRegistroSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_secuenciaUltimoRegistro" />
+  </wsdl:message>
+  <wsdl:message name="dame_secuenciaUltimoRegistroSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_secuenciaUltimoRegistroResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaindiceSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaindice" />
+  </wsdl:message>
+  <wsdl:message name="planillaindiceSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaindiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="planilla_datosSoapIn">
+    <wsdl:part name="parameters" element="tns:planilla_datos" />
+  </wsdl:message>
+  <wsdl:message name="planilla_datosSoapOut">
+    <wsdl:part name="parameters" element="tns:planilla_datosResponse" />
+  </wsdl:message>
+  <wsdl:message name="planillaitemSoapIn">
+    <wsdl:part name="parameters" element="tns:planillaitem" />
+  </wsdl:message>
+  <wsdl:message name="planillaitemSoapOut">
+    <wsdl:part name="parameters" element="tns:planillaitemResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_tarifaSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_tarifa" />
+  </wsdl:message>
+  <wsdl:message name="dame_tarifaSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_tarifaResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_obsSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_obs" />
+  </wsdl:message>
+  <wsdl:message name="dame_obsSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_obsResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_sitiocajaSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_sitiocaja" />
+  </wsdl:message>
+  <wsdl:message name="dame_sitiocajaSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_sitiocajaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ver_avanceSoapIn">
+    <wsdl:part name="parameters" element="tns:ver_avance" />
+  </wsdl:message>
+  <wsdl:message name="ver_avanceSoapOut">
+    <wsdl:part name="parameters" element="tns:ver_avanceResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_totalitemsSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_totalitems" />
+  </wsdl:message>
+  <wsdl:message name="dame_totalitemsSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_totalitemsResponse" />
+  </wsdl:message>
+  <wsdl:message name="update_planillaitems_reglecturaSoapIn">
+    <wsdl:part name="parameters" element="tns:update_planillaitems_reglectura" />
+  </wsdl:message>
+  <wsdl:message name="update_planillaitems_reglecturaSoapOut">
+    <wsdl:part name="parameters" element="tns:update_planillaitems_reglecturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_registrolecturaByIdSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_registrolecturaById" />
+  </wsdl:message>
+  <wsdl:message name="dame_registrolecturaByIdSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_registrolecturaByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_registrolecturaSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_registrolectura" />
+  </wsdl:message>
+  <wsdl:message name="dame_registrolecturaSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_registrolecturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="dame_tiempoLaboralRutaSoapIn">
+    <wsdl:part name="parameters" element="tns:dame_tiempoLaboralRuta" />
+  </wsdl:message>
+  <wsdl:message name="dame_tiempoLaboralRutaSoapOut">
+    <wsdl:part name="parameters" element="tns:dame_tiempoLaboralRutaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="consultSoap">
+    <wsdl:operation name="ConsultaBD_STOCK">
+      <wsdl:input message="tns:ConsultaBD_STOCKSoapIn" />
+      <wsdl:output message="tns:ConsultaBD_STOCKSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="predios_asignados">
+      <wsdl:input message="tns:predios_asignadosSoapIn" />
+      <wsdl:output message="tns:predios_asignadosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insert_reglectura">
+      <wsdl:input message="tns:insert_reglecturaSoapIn" />
+      <wsdl:output message="tns:insert_reglecturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="update_planilla_medidor">
+      <wsdl:input message="tns:update_planilla_medidorSoapIn" />
+      <wsdl:output message="tns:update_planilla_medidorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="update_reglecturasecu">
+      <wsdl:input message="tns:update_reglecturasecuSoapIn" />
+      <wsdl:output message="tns:update_reglecturasecuSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail2">
+      <wsdl:input message="tns:enviar_mail2SoapIn" />
+      <wsdl:output message="tns:enviar_mail2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail3">
+      <wsdl:input message="tns:enviar_mail3SoapIn" />
+      <wsdl:output message="tns:enviar_mail3SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="exportar_planilla">
+      <wsdl:input message="tns:exportar_planillaSoapIn" />
+      <wsdl:output message="tns:exportar_planillaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="convertir">
+      <wsdl:input message="tns:convertirSoapIn" />
+      <wsdl:output message="tns:convertirSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planilla_listar_rutas">
+      <wsdl:input message="tns:planilla_listar_rutasSoapIn" />
+      <wsdl:output message="tns:planilla_listar_rutasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_porCuenta">
+      <wsdl:input message="tns:buscarRegistro_porCuentaSoapIn" />
+      <wsdl:output message="tns:buscarRegistro_porCuentaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_por">
+      <wsdl:input message="tns:buscarRegistro_porSoapIn" />
+      <wsdl:output message="tns:buscarRegistro_porSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_Manzano">
+      <wsdl:input message="tns:buscarRegistro_ManzanoSoapIn" />
+      <wsdl:output message="tns:buscarRegistro_ManzanoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_LoteManzano">
+      <wsdl:input message="tns:buscarRegistro_LoteManzanoSoapIn" />
+      <wsdl:output message="tns:buscarRegistro_LoteManzanoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_categoriaNombre">
+      <wsdl:input message="tns:dame_categoriaNombreSoapIn" />
+      <wsdl:output message="tns:dame_categoriaNombreSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planilla_asignada_listar">
+      <wsdl:input message="tns:planilla_asignada_listarSoapIn" />
+      <wsdl:output message="tns:planilla_asignada_listarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_min">
+      <wsdl:input message="tns:planillaitems_minSoapIn" />
+      <wsdl:output message="tns:planillaitems_minSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_max">
+      <wsdl:input message="tns:planillaitems_maxSoapIn" />
+      <wsdl:output message="tns:planillaitems_maxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_sig">
+      <wsdl:input message="tns:planillaitems_sigSoapIn" />
+      <wsdl:output message="tns:planillaitems_sigSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_ant">
+      <wsdl:input message="tns:planillaitems_antSoapIn" />
+      <wsdl:output message="tns:planillaitems_antSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_secuenciaUltimoRegistro">
+      <wsdl:input message="tns:dame_secuenciaUltimoRegistroSoapIn" />
+      <wsdl:output message="tns:dame_secuenciaUltimoRegistroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaindice">
+      <wsdl:input message="tns:planillaindiceSoapIn" />
+      <wsdl:output message="tns:planillaindiceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planilla_datos">
+      <wsdl:input message="tns:planilla_datosSoapIn" />
+      <wsdl:output message="tns:planilla_datosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="planillaitem">
+      <wsdl:input message="tns:planillaitemSoapIn" />
+      <wsdl:output message="tns:planillaitemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_tarifa">
+      <wsdl:input message="tns:dame_tarifaSoapIn" />
+      <wsdl:output message="tns:dame_tarifaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_obs">
+      <wsdl:input message="tns:dame_obsSoapIn" />
+      <wsdl:output message="tns:dame_obsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_sitiocaja">
+      <wsdl:input message="tns:dame_sitiocajaSoapIn" />
+      <wsdl:output message="tns:dame_sitiocajaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ver_avance">
+      <wsdl:input message="tns:ver_avanceSoapIn" />
+      <wsdl:output message="tns:ver_avanceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_totalitems">
+      <wsdl:input message="tns:dame_totalitemsSoapIn" />
+      <wsdl:output message="tns:dame_totalitemsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="update_planillaitems_reglectura">
+      <wsdl:input message="tns:update_planillaitems_reglecturaSoapIn" />
+      <wsdl:output message="tns:update_planillaitems_reglecturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolecturaById">
+      <wsdl:input message="tns:dame_registrolecturaByIdSoapIn" />
+      <wsdl:output message="tns:dame_registrolecturaByIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolectura">
+      <wsdl:input message="tns:dame_registrolecturaSoapIn" />
+      <wsdl:output message="tns:dame_registrolecturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dame_tiempoLaboralRuta">
+      <wsdl:input message="tns:dame_tiempoLaboralRutaSoapIn" />
+      <wsdl:output message="tns:dame_tiempoLaboralRutaSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="consultSoap" type="tns:consultSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaBD_STOCK">
+      <soap:operation soapAction="http://tempuri.org/ConsultaBD_STOCK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="predios_asignados">
+      <soap:operation soapAction="http://tempuri.org/predios_asignados" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insert_reglectura">
+      <soap:operation soapAction="http://tempuri.org/insert_reglectura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_planilla_medidor">
+      <soap:operation soapAction="http://tempuri.org/update_planilla_medidor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_reglecturasecu">
+      <soap:operation soapAction="http://tempuri.org/update_reglecturasecu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail2">
+      <soap:operation soapAction="http://tempuri.org/enviar_mail2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail3">
+      <soap:operation soapAction="http://tempuri.org/enviar_mail3" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="exportar_planilla">
+      <soap:operation soapAction="http://tempuri.org/exportar_planilla" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="convertir">
+      <soap:operation soapAction="http://tempuri.org/convertir" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_listar_rutas">
+      <soap:operation soapAction="http://tempuri.org/planilla_listar_rutas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_porCuenta">
+      <soap:operation soapAction="http://tempuri.org/buscarRegistro_porCuenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_por">
+      <soap:operation soapAction="http://tempuri.org/buscarRegistro_por" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_Manzano">
+      <soap:operation soapAction="http://tempuri.org/buscarRegistro_Manzano" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_LoteManzano">
+      <soap:operation soapAction="http://tempuri.org/buscarRegistro_LoteManzano" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_categoriaNombre">
+      <soap:operation soapAction="http://tempuri.org/dame_categoriaNombre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_asignada_listar">
+      <soap:operation soapAction="http://tempuri.org/planilla_asignada_listar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_min">
+      <soap:operation soapAction="http://tempuri.org/planillaitems_min" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_max">
+      <soap:operation soapAction="http://tempuri.org/planillaitems_max" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_sig">
+      <soap:operation soapAction="http://tempuri.org/planillaitems_sig" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_ant">
+      <soap:operation soapAction="http://tempuri.org/planillaitems_ant" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_secuenciaUltimoRegistro">
+      <soap:operation soapAction="http://tempuri.org/dame_secuenciaUltimoRegistro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaindice">
+      <soap:operation soapAction="http://tempuri.org/planillaindice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_datos">
+      <soap:operation soapAction="http://tempuri.org/planilla_datos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitem">
+      <soap:operation soapAction="http://tempuri.org/planillaitem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_tarifa">
+      <soap:operation soapAction="http://tempuri.org/dame_tarifa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_obs">
+      <soap:operation soapAction="http://tempuri.org/dame_obs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_sitiocaja">
+      <soap:operation soapAction="http://tempuri.org/dame_sitiocaja" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ver_avance">
+      <soap:operation soapAction="http://tempuri.org/ver_avance" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_totalitems">
+      <soap:operation soapAction="http://tempuri.org/dame_totalitems" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_planillaitems_reglectura">
+      <soap:operation soapAction="http://tempuri.org/update_planillaitems_reglectura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolecturaById">
+      <soap:operation soapAction="http://tempuri.org/dame_registrolecturaById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolectura">
+      <soap:operation soapAction="http://tempuri.org/dame_registrolectura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_tiempoLaboralRuta">
+      <soap:operation soapAction="http://tempuri.org/dame_tiempoLaboralRuta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="consultSoap12" type="tns:consultSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaBD_STOCK">
+      <soap12:operation soapAction="http://tempuri.org/ConsultaBD_STOCK" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="predios_asignados">
+      <soap12:operation soapAction="http://tempuri.org/predios_asignados" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insert_reglectura">
+      <soap12:operation soapAction="http://tempuri.org/insert_reglectura" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_planilla_medidor">
+      <soap12:operation soapAction="http://tempuri.org/update_planilla_medidor" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_reglecturasecu">
+      <soap12:operation soapAction="http://tempuri.org/update_reglecturasecu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail2">
+      <soap12:operation soapAction="http://tempuri.org/enviar_mail2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="enviar_mail3">
+      <soap12:operation soapAction="http://tempuri.org/enviar_mail3" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="exportar_planilla">
+      <soap12:operation soapAction="http://tempuri.org/exportar_planilla" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="convertir">
+      <soap12:operation soapAction="http://tempuri.org/convertir" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_listar_rutas">
+      <soap12:operation soapAction="http://tempuri.org/planilla_listar_rutas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_porCuenta">
+      <soap12:operation soapAction="http://tempuri.org/buscarRegistro_porCuenta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_por">
+      <soap12:operation soapAction="http://tempuri.org/buscarRegistro_por" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_Manzano">
+      <soap12:operation soapAction="http://tempuri.org/buscarRegistro_Manzano" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarRegistro_LoteManzano">
+      <soap12:operation soapAction="http://tempuri.org/buscarRegistro_LoteManzano" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_categoriaNombre">
+      <soap12:operation soapAction="http://tempuri.org/dame_categoriaNombre" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_asignada_listar">
+      <soap12:operation soapAction="http://tempuri.org/planilla_asignada_listar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_min">
+      <soap12:operation soapAction="http://tempuri.org/planillaitems_min" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_max">
+      <soap12:operation soapAction="http://tempuri.org/planillaitems_max" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_sig">
+      <soap12:operation soapAction="http://tempuri.org/planillaitems_sig" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitems_ant">
+      <soap12:operation soapAction="http://tempuri.org/planillaitems_ant" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_secuenciaUltimoRegistro">
+      <soap12:operation soapAction="http://tempuri.org/dame_secuenciaUltimoRegistro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaindice">
+      <soap12:operation soapAction="http://tempuri.org/planillaindice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planilla_datos">
+      <soap12:operation soapAction="http://tempuri.org/planilla_datos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="planillaitem">
+      <soap12:operation soapAction="http://tempuri.org/planillaitem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_tarifa">
+      <soap12:operation soapAction="http://tempuri.org/dame_tarifa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_obs">
+      <soap12:operation soapAction="http://tempuri.org/dame_obs" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_sitiocaja">
+      <soap12:operation soapAction="http://tempuri.org/dame_sitiocaja" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ver_avance">
+      <soap12:operation soapAction="http://tempuri.org/ver_avance" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_totalitems">
+      <soap12:operation soapAction="http://tempuri.org/dame_totalitems" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="update_planillaitems_reglectura">
+      <soap12:operation soapAction="http://tempuri.org/update_planillaitems_reglectura" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolecturaById">
+      <soap12:operation soapAction="http://tempuri.org/dame_registrolecturaById" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_registrolectura">
+      <soap12:operation soapAction="http://tempuri.org/dame_registrolectura" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dame_tiempoLaboralRuta">
+      <soap12:operation soapAction="http://tempuri.org/dame_tiempoLaboralRuta" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="consult">
+    <wsdl:port name="consultSoap" binding="tns:consultSoap">
+      <soap:address location="http://192.168.2.2:8081/web_pda3/consult.asmx" />
+    </wsdl:port>
+    <wsdl:port name="consultSoap12" binding="tns:consultSoap12">
+      <soap12:address location="http://192.168.2.2:8081/web_pda3/consult.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

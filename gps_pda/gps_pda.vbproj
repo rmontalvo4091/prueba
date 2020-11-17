@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E48AD619-0899-4193-846C-45B8B2E15761}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>gps_pda.frmAcceso</StartupObject>
+    <RootNamespace>gps_pda</RootNamespace>
+    <AssemblyName>gps_pda</AssemblyName>
+    <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <OSVersion>5.1</OSVersion>
+    <MyType>WindowsForms</MyType>
+    <DeployDirSuffix>gps_pda</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <NativePlatformName>Windows Mobile 5.0 Pocket PC SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>d2cfcc67-daaf-4369-b135-ca63c5be1dc0-ConvertImage.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>gps_pda.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>gps_pda.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsMobile.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Samples.Location, Version=1.0.3411.19876, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\GPS_Sample8\bin\Debug\Microsoft.WindowsMobile.Samples.Location.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormRegistroLecturaSecu.Designer.vb">
+      <DependentUpon>FormRegistroLecturaSecu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistroLecturaSecu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarObs.Designer.vb">
+      <DependentUpon>frmBuscarObs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarObs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarRegistro.Designer.vb">
+      <DependentUpon>frmBuscarRegistro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarRegistro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCorreoDestino.Designer.vb">
+      <DependentUpon>frmCorreoDestino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCorreoDestino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmElegirRuta.Designer.vb">
+      <DependentUpon>frmElegirRuta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmElegirRuta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGraficoAvance.Designer.vb">
+      <DependentUpon>frmGraficoAvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGraficoAvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImagenes.Designer.vb">
+      <DependentUpon>frmImagenes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImagenes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMailCliente.Designer.vb">
+      <DependentUpon>frmMailCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMailCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModo.Designer.vb">
+      <DependentUpon>frmModo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotificacion.Designer.vb">
+      <DependentUpon>frmNotificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioCambioPass.Designer.vb">
+      <DependentUpon>frmUsuarioCambioPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioCambioPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioCambioPin.Designer.vb">
+      <DependentUpon>frmUsuarioCambioPin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioCambioPin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguracion.Designer.vb">
+      <DependentUpon>frmConfiguracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfiguracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditLectura.Designer.vb">
+      <DependentUpon>frmEditLectura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditLectura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcceso.Designer.vb">
+      <DependentUpon>frmAcceso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarga.Designer.vb">
+      <DependentUpon>frmCarga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsulta.Designer.vb">
+      <DependentUpon>frmConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegLectura.Designer.vb">
+      <DependentUpon>frmRegLectura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegLectura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporte.Designer.vb">
+      <DependentUpon>frmReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioEdit.Designer.vb">
+      <DependentUpon>frmUsuarioEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioNvo.Designer.vb">
+      <DependentUpon>frmUsuarioNvo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioNvo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarios.Designer.vb">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCE.vb" />
+    <Compile Include="variables.vb" />
+    <Compile Include="Web References\webPda\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormRegistroLecturaSecu.resx">
+      <DependentUpon>FormRegistroLecturaSecu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarObs.resx">
+      <DependentUpon>frmBuscarObs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarRegistro.resx">
+      <DependentUpon>frmBuscarRegistro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCorreoDestino.resx">
+      <DependentUpon>frmCorreoDestino.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmElegirRuta.resx">
+      <DependentUpon>frmElegirRuta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImagenes.resx">
+      <DependentUpon>frmImagenes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMailCliente.resx">
+      <DependentUpon>frmMailCliente.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModo.resx">
+      <DependentUpon>frmModo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotificacion.resx">
+      <DependentUpon>frmNotificacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarioCambioPass.resx">
+      <DependentUpon>frmUsuarioCambioPass.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarioCambioPin.resx">
+      <DependentUpon>frmUsuarioCambioPin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfiguracion.resx">
+      <DependentUpon>frmConfiguracion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditLectura.resx">
+      <DependentUpon>frmEditLectura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcceso.resx">
+      <DependentUpon>frmAcceso.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarga.resx">
+      <DependentUpon>frmCarga.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsulta.resx">
+      <DependentUpon>frmConsulta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegLectura.resx">
+      <DependentUpon>frmRegLectura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporte.resx">
+      <DependentUpon>frmReporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarioEdit.resx">
+      <DependentUpon>frmUsuarioEdit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarioNvo.resx">
+      <DependentUpon>frmUsuarioNvo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="d2cfcc67-daaf-4369-b135-ca63c5be1dc0-ConvertImage.ico" />
+    <None Include="Resources\logo_sela_01.jpg" />
+    <None Include="Web References\webPda\consult.disco" />
+    <None Include="Web References\webPda\consult.wsdl" />
+    <None Include="Web References\webPda\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://192.168.2.2:8081/web_pda3/consult.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\webPda\</RelPath>
+      <UpdateFromURL>http://192.168.2.2:8081/web_pda3/consult.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F184B08F-C81C-45F6-A57F-5ABD9991F28F}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
